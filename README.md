@@ -9,6 +9,8 @@ You are free to use any library you want to make your website.
 
 ## step 1 : Create a website
 
+Choose one design in this Pinterest tab : https://www.pinterest.fr/cellyasirot/music-player/
+
 ## setp 2 : Create a music player
 You have to create a music player with all the basic functionnalities :
 * Play a song
