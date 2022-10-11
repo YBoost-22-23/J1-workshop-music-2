@@ -3,7 +3,7 @@ YBoost workshop #2 | 12/10/2022
 
 # DJ Set
 
-## Objective
+## Objective 
 Make a website that will allow you to play **a minimum of 2 song** in the **same time** and to **mix** them in live with some effects.
 You are free to use any library you want to make your website.
 
