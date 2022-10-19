@@ -44,3 +44,11 @@ Try to make the mixage easy to use and to understand.
 
 ## Usage
 Here is an exemple of what he can look like : ![dj](https://i.imgur.com/e0a5xsz.gif)
+
+## ORGANISATION PROPOSITION
+
+Dev 1 (medium -) : Create the front of the media player according to the Pinterest tab
+Dev 2 (medium -) : Create the front of the dj set
+Dev 3 (medium) : Create the import functionality 
+Dev 4 (medium +) : Use one song and try to deform it 
+Dev 5 (hard) : connect two songs and create the mix 
